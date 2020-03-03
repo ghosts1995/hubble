@@ -43,7 +43,6 @@ github.com/cilium/cilium/pkg/labels
 github.com/cilium/cilium/pkg/lock
 github.com/cilium/cilium/pkg/logging
 github.com/cilium/cilium/pkg/logging/logfields
-github.com/cilium/cilium/pkg/math
 github.com/cilium/cilium/pkg/metrics
 github.com/cilium/cilium/pkg/monitor
 github.com/cilium/cilium/pkg/monitor/agent/listener
@@ -63,7 +62,6 @@ github.com/davecgh/go-spew/spew
 github.com/fatih/color
 # github.com/francoispqt/gojay v1.2.13
 ## explicit
-github.com/francoispqt/gojay
 # github.com/fsnotify/fsnotify v1.4.7
 github.com/fsnotify/fsnotify
 # github.com/ghodss/yaml v1.0.0
